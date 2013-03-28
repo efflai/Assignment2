@@ -1,0 +1,152 @@
+Assignment2
+===========
+
+Assignment 2 for Web Design class
+
+<html>
+<title>What You Need to Know About Fred</title>
+<head>
+<style type="text/css">
+h1 {
+font-family:'OFL Sorts Mill Goudy TT', Georgia, serif;
+font-size:50px;margin-bottom:25px;
+width: 100%;
+}
+
+p {  		
+font-family:Georgia,'Times New Roman',serif;
+line-height:10px;margin-bottom:10px;
+}
+
+h2 {
+font-family:'OFL Sorts Mill Goudy TT', Georgia, serif;
+font-size:35px;
+line-height:20px;
+font-weight:100;
+margin-bottom:15px;
+}
+
+.align-left {
+float:left; margin: 0 15px 15px 0;
+ }
+
+.header {
+text-transform:uppercase;
+letter-spacing:2px;
+margin:0px auto;
+margin-bottom:25px;
+padding:10px;
+width:255px;
+
+}
+
+.subtitle {
+text-transform:uppercase;
+letter-spacing:2px;
+margin:0px auto;
+margin-bottom:25px;
+padding:10px;
+border-top:1px solid;
+border-bottom:1px solid;
+width:255px;
+line-height:20px;
+}
+
+.content{
+  display: inline-block;
+  border: 4px;
+  width: 300px; height: 200px;
+  font-size: 20px;
+  margin: 20px;
+  padding: 10px;
+  text-align:center;
+}
+
+.end {
+text-transform:uppercase;
+letter-spacing:2px;
+margin:50px;
+margin-bottom:25px;
+padding:10px;
+border-top:1px solid;
+border-bottom:1px solid;
+width:999px;
+line-height:10px;
+}
+
+.a {font-size: 15px
+}
+.Awards{font-size: 18px
+}
+
+
+</style>
+</head>
+
+<img src="http://24.media.tumblr.com/c6da3975066b88a6247e3852c562abaa/tumblr_mkcvrjFdwi1s6abcao1_500.png"width="300" height="300" class="align-left">
+<body>
+	<h1 class="header", style="text-align:center;">
+<center>SAY HI <br> TO FRED. </center>
+</h1>
+	<div class="subtitle", style="text-align:center;">
+Fredrick Lai, a Singaporean based in Taiwan.
+He writes, films, and hosts.
+A media junkie who would do anything for his next meal.
+</div>
+	
+
+<span class="content">
+<h2 style="text-align:center;">Education </h2>
+- National Chengchi Univeristy
+<span class="a"> Department of Journalism <br>(School Year 2015)<br></span>
+- Temasek Polytechnic <br>
+<span class="a"> Diploma in Communications and Media Management<br></span>
+<br><br><br><br><br><br>
+</span>
+
+<span class="content">
+<h2 style="text-align:center;">Fred Who? </h2>
+Born in 1989, Fred was exposed to various forms of art since young.
+After spending his childhood days in theatre and a bit of television hosting,
+he found his way to radio. From there, Fred moved on and became a journalist.
+In his sophomore year now, Fred is slated to take on the news industry after graduation. Apart from his journalistic endeavour, Fred likes to take up his camera and go around taking pictures and filming, just for the fun of it.</span>
+
+<span class="content">
+<h2 style="text-align:center;">Experience </h2>
+- UFM 100.3 Part-time Presenter Producer<br>
+- Lianhe Wanbao Intern Journalist<br><br><br><br>
+<br><br><br><br><br><br><br>
+</span>
+
+<span class="content">
+<h2 style="text-align:center;">Awards </h2>
+<span class="Awards">
+- Best Online News Producer <br> (The University News 大學報)<br><br>
+- Best Term Project<br> (Animation titled: "John")<br><br>
+- Best in Radio Production <br>(Temasek Polytechnic)<br><br>
+- Winner, Fight Club 2007 <br>Radio 100.3FM DJ Competition
+</span>
+</span>
+
+<span class="content">
+<h2 style="text-align:center;">Works </h2> Work Gallery <br>(會是一個link）
+<br><br><br><br><br><br>
+</span>
+
+<span class="content">
+<h2 style="text-align:center;">Contact </h2>
+Call: (+886) 975730033<br>
+<p>Email:<a class="email" href="mailto:fredricklai@gmail.com">
+fredricklai@gmail.com</a> </p>
+<br><br><br><br><br><br><br></span>
+
+ <div class="end">
+ASK FRED. ANYTHING.
+</div>
+
+
+
+
+
+</body>
+</html>
